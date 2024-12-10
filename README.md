@@ -1,2 +1,2 @@
-# Python_Introducao
-Portfólio EducaMin@ - Exercícios realizados na disciplina de Introdução à Lógica de Programação em Python
+# Python
+Portfólio EducaMin@ - Exercícios realizados no curso de Introdução à Lógica de Programação em Python
