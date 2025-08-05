@@ -2,7 +2,7 @@
 
 Repositório com **exercícios curtos e comentados** desenvolvidos durante o curso de Python oferecido pela plataforma **EducaMin@**.
 
-Instagram: @coletivo_mina.
+Instagram: @coletivo_mina
 
 Os códigos foram feitos para fixar conceitos básicos e intermediários da linguagem, com foco em lógica, estruturas de controle, funções e manipulação de dados.
 
