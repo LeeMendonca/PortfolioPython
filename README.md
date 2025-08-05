@@ -1,10 +1,9 @@
 # 🐍 Portfólio Acadêmico – Python
 
 Repositório com **exercícios curtos e comentados** desenvolvidos durante o curso de Python oferecido pela plataforma **EducaMin@**.
-
-_Instagram: @coletivo_mina_
-
 Os códigos foram feitos para fixar conceitos básicos e intermediários da linguagem, com foco em lógica, estruturas de controle, funções e manipulação de dados.
+
+> Ferramenta utilizada: **PyCharm**
 
 ---
 
